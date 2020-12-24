@@ -1,0 +1,2 @@
+# Wine-Group-PCA-Dimensionality-Reduction-ML
+Principal Component Analysis (PCA) is an unsupervised, non-parametric statistical technique primarily used for dimensionality reduction in machine learning. High dimensionality means that the dataset has a large number of features. In this project Logistic regression is used to predict the category of customer segment which is decided based on certain contents of wine.
